@@ -35,5 +35,3 @@ The entire analysis is contained within a single Python script.
    python master_thesis.py
    ```
 3. The script automatically generates multiple publication-ready figures and bundles them into a `Master_Thesis_Graphs.zip` archive for easy extraction.
-   ```bash
-   pip install yfinance pandas numpy matplotlib seaborn scipy
